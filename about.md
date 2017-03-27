@@ -20,3 +20,9 @@ fanciful pharmaceuticals don't interest me. So for now the comments are off.
 
 If you have a strongly held position on blog comments, you are invited to let me
 know where you stand.
+
+Privacy policy coming soon, but for now I don’t collect info from you. GitHub
+is hosting these pages, so it might, but I can’t see any of it. No ads here.
+
+I’m editing this site in Atom on a MacBook Air. I use Firefox with NoScript and
+uBlock Origin. JPEG pictures you see were probably shot on my iPhone.
