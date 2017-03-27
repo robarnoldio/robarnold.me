@@ -24,8 +24,9 @@ recipe:
 | water | 12.2 oz. |
 | fragrance oil | 1 oz. |
 
+
 I do "cold process" soap making. I'm not providing heat to the process, so
-saponification happens more slowly. This affords me time to work with the
+saponification happens relatively slowly. This affords me time to work with the
 ingredients and gives a smoother textured bar of soap than hot process.
 
 I use five pound yogurt tubs to mix my oils in. The coconut oil and lard are
