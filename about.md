@@ -24,5 +24,5 @@ know where you stand.
 Privacy policy coming soon, but for now I don’t collect info from you. GitHub
 is hosting these pages, so it might, but I can’t see any of it. No ads here.
 
-I’m editing this site in Atom on a MacBook Air. I use Firefox with NoScript and
+I’m editing this site in Visual Studio Code on a MacBook Air. I use Chrome and
 uBlock Origin. JPEG pictures you see were probably shot on my iPhone.
