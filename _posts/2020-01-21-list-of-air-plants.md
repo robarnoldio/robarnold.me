@@ -52,6 +52,8 @@ categories: meta lists
 43. T. circinnatiodes (large)
 
 
-My current want list:
+##My current want list:
 T. streptophyllum
 T. tectorum clump
+
+Coming soon: photos of all these. I will make a page for each one.
