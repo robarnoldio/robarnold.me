@@ -50,7 +50,7 @@ categories: meta lists
 41. (unidentified) (T. recurvifolia or houston ?)
 42. T. andreana (?) small, with pup (this is a favorite)
 43. T. circinnatiodes (large)
-
+44. T. tectorum
 
 ##My current want list:
 T. streptophyllum
