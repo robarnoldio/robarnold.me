@@ -47,12 +47,12 @@ categories: meta lists
 38. T. capitata (?) purple tips
 39. T. ionatha (large)
 40. (unidentified) red, finer leaves than abdita
-41. (unidentified) (T. recurvifolia or houston ?)
+41. T. houston cotton candy (?)
 42. T. andreana (?) small, with pup (this is a favorite)
 43. T. circinnatiodes (large)
 44. T. tectorum
 
-##My current want list:
+## My current want list:
 T. streptophyllum
 T. tectorum clump
 
