@@ -53,7 +53,7 @@ categories: meta lists
 44. T. tectorum
 
 ## My current want list:
-T. streptophyllum
-T. tectorum clump
+* T. streptophyllum
+* T. tectorum clump
 
 Coming soon: photos of all these. I will make a page for each one.
