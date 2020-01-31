@@ -7,6 +7,8 @@ categories: meta lists
 
 # Fountain pens currently in my collection
 
+![My Kaweco Brass Sport with my habit journal](/i/IMG_5906.jpeg "My Kaweco Brass Sport with my habit journal")
+
 About three years ago I got started with fountain pens. Cheap (about three bucks) Pilot Varsity pens in every color was the gateway drug. I am not going to count those on the list, but I still have them. They will not run out of ink for a long time, but eventually get disposed since they can't be refilled.
 
 This first group is not inked, stored in case I want to break them out.
