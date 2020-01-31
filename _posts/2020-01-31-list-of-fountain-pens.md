@@ -19,7 +19,7 @@ This first group is not inked, stored in case I want to break them out.
 6. Ohto Dude (black) new in packaging
 7. A. G. Spalding & Bros. 
 
-I like Lamy pens quite a bit. The 1.5mm nib is especially enjoyable. About half of these are inked, and I have yet to even try the LX.
+ I like Lamy pens quite a bit. The 1.5mm nib is especially enjoyable. About half of these are inked, and I have yet to even try the LX.
 
 8. Lamy AL-Star (pacific blue, 2017 limited edition) EF nib
 9. Lamy AL-Star (vibrant pink, 2018 limited edition) M nib
@@ -29,7 +29,7 @@ I like Lamy pens quite a bit. The 1.5mm nib is especially enjoyable. About half 
 13. Lamy AL-Star (graphite) 1.5 nib
 14. Lamy LX (marron, 2019 limited edition) M nib new in packaging
 
-I really like Kaweco pens. Changing the nibs is part of the joy. None of my sports have the clip accessory. I found hte anodizing on the black AL sports to be not very rugged, so I quit carrying them very rapidly and went back to brass, which is a tank.
+ I really like Kaweco pens. Changing the nibs is part of the joy. None of my sports have the clip accessory. I found the anodizing on the black AL sports to be not very rugged, so I quit carrying them very rapidly and went back to brass, which is a tank.
 
 15. Kaweco Brass Sport black F nib (my everyday carry pen)
 16. Kaweco AL Sport (night limited edition) black EF nib
@@ -38,7 +38,7 @@ I really like Kaweco pens. Changing the nibs is part of the joy. None of my spor
 19. Kaweco Special AL black black EF nib (my desk pen)
 20. Kaweco Copper Lilliput black F nib (my next everyday carry pen) new in packaging
 
-When I take my Brass Sport out in public to sign a charge slip, it invites a lot of comments. It has a soft patina from two and a half years of daily use. I'm really looking forward to switching to the Copper (solid, raw so it will get a patina) on the appropriate occasion.
+ When I take my Brass Sport out in public to sign a charge slip, it invites a lot of comments. It has a soft patina from two and a half years of daily use. I'm really looking forward to switching to the Copper (solid, raw so it will get a patina) on the appropriate occasion.
 
 21. Daiso plastic fountain pen, blue. 
 
