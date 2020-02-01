@@ -16,7 +16,7 @@ categories: meta lists
 7. T. abdita red
 8. T. butzii
 9. T. ionatha
-10. (unidentified) large, probably capitata
+10. T. secunda (xlarge)
 11. T. juncea (large)
 12. (unidentified) purple
 13. (unidentified) 
@@ -51,9 +51,18 @@ categories: meta lists
 42. T. andreana (?) small, with pup (this is a favorite)
 43. T. circinnatiodes (large)
 44. T. tectorum
+45. T. ionatha 'druid'
+46. T. ionatha
+47. (unidentified) probably a hybrid
+48. T. balbisiana
+49. T. balbisiana (?)
+
 
 ## My current want list:
 * T. streptophyllum
 * T. tectorum clump
+* T. 'showtime'
 
-Coming soon: photos of all these. I will make a page for each one.
+Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
+
+Last update: 2/1/20
