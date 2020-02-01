@@ -62,6 +62,7 @@ categories: meta lists
 * T. streptophyllum
 * T. tectorum clump
 * T. 'showtime'
+* T. crocata
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
