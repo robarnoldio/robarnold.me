@@ -56,14 +56,17 @@ categories: meta lists
 47. (unidentified) probably a hybrid
 48. T. balbisiana
 49. T. balbisiana (?)
+50. T. xerographica
+51. T. streptophylla (big!)
+52. T. ionatha clump (on a wire hanger)
 
 
 ## My current want list:
-* T. streptophyllum
+* ~~T. streptophyllum~~ achievement unlocked!
 * T. tectorum clump
 * T. 'showtime'
 * T. crocata
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
-Last update: 2/1/20
+Last update: 2/8/20
