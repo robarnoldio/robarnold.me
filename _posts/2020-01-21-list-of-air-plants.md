@@ -59,13 +59,17 @@ categories: meta lists
 50. T. xerographica
 51. T. streptophylla (big!)
 52. T. ionatha clump (on a wire hanger)
+53. T. streptophylla (bigger!)
 
 
 ## My current want list:
 * ~~T. streptophyllum~~ achievement unlocked!
 * T. tectorum clump
 * T. 'showtime'
-* T. crocata
+* T. crocata giant
+* T. duratii
+* T. 'Betty'
+* T. exserta
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
