@@ -5,7 +5,7 @@ date:   2020-01-21 16:00:00 -0600
 categories: meta lists
 ---
 
-# Air plants currently in my collection
+## Air plants currently in my collection
 
 1. T. ionatha (2015) the one that started it all...
 2. T. capitata (large)
@@ -19,7 +19,7 @@ categories: meta lists
 10. T. secunda (xlarge)
 11. T. juncea (large)
 12. (unidentified) purple
-13. (unidentified) 
+13. (unidentified)
 14. (unidentified) (15" wide, I love this one)
 15. (unidentified) (small version of 14 I think)
 16. T. capitata peach (?)
@@ -59,10 +59,14 @@ categories: meta lists
 50. T. xerographica
 51. T. streptophylla (big!)
 52. T. ionatha clump (on a wire hanger)
-53. T. streptophylla (bigger!)
+53. T. magnusiana (with pup)
+54. T. ionatha (tall form)
+55. T. ionatha
+56. T. ionatha 'fountain'
+57. T. streptophylla (bigger!)
 
+## My current want list
 
-## My current want list:
 * ~~T. streptophyllum~~ achievement unlocked!
 * T. tectorum clump
 * T. 'showtime'
