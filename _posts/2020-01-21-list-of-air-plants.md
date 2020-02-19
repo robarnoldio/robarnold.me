@@ -40,7 +40,7 @@ categories: meta lists
 31. T. aeranthos (?) small clump
 32. T. velutina
 33. T. velutina
-34. T. magnusiana
+34. ~~T. magnusiana~~ died 2/2020 of rot
 35. T. houston black
 36. T. espinosae
 37. T. caput-medusae (large)
