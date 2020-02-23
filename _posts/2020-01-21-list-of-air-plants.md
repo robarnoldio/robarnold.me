@@ -60,7 +60,7 @@ categories: meta lists
 51. T. streptophylla (big!)
 52. T. ionatha clump (on a wire hanger)
 53. T. magnusiana (with pup)
-54. T. ionatha (tall form)
+54. T. ionatha (tall form, maybe 'Big Boy')
 55. T. ionatha
 56. T. ionatha 'fountain'
 57. T. streptophylla (bigger!)
@@ -74,7 +74,8 @@ categories: meta lists
 * T. duratii
 * T. 'Betty'
 * T. exserta
+* T. 'Victoria'
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
-Last update: 2/8/20
+Last update: 2/23/20
