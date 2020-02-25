@@ -18,10 +18,10 @@ categories: meta lists
 9. T. ionatha
 10. T. secunda (xlarge)
 11. T. juncea (large)
-12. (unidentified) purple
+12. T. capitata v. dominguensis purple
 13. (unidentified)
-14. (unidentified) (15" wide, I love this one)
-15. (unidentified) (small version of 14 I think)
+14. T. stricta (15" wide, I love this one)
+15. T. stricta
 16. T. capitata peach (?)
 17. T. capitata dwarf yellow (?)
 18. T. bulbosa
@@ -40,7 +40,7 @@ categories: meta lists
 31. T. aeranthos (?) small clump
 32. T. velutina
 33. T. velutina
-34. ~~T. magnusiana~~ died 2/2020 of rot
+34. ~~T. magnusiana~~ died 2/2020 of rot :(
 35. T. houston black
 36. T. espinosae
 37. T. caput-medusae (large)
@@ -48,12 +48,12 @@ categories: meta lists
 39. T. ionatha (large)
 40. (unidentified) red, finer leaves than abdita
 41. T. houston cotton candy (?)
-42. T. andreana (?) small, with pup (this is a favorite)
+42. T. andreana small, with pup (this is a favorite)
 43. T. circinnatiodes (large)
 44. T. tectorum
 45. T. ionatha 'druid'
 46. T. ionatha
-47. (unidentified) probably a hybrid
+47. T. fasciculata hybrid
 48. T. balbisiana
 49. T. balbisiana (?)
 50. T. xerographica
@@ -64,6 +64,7 @@ categories: meta lists
 55. T. ionatha
 56. T. ionatha 'fountain'
 57. T. streptophylla (bigger!)
+58. T. 'Eric Knobloch'
 
 ## My current want list
 
