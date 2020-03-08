@@ -19,7 +19,7 @@ categories: meta lists
 10. T. secunda (xlarge)
 11. T. juncea (large)
 12. T. capitata v. dominguensis purple
-13. (unidentified)
+13. T. plagiotropica
 14. T. stricta (15" wide, I love this one)
 15. T. stricta
 16. T. capitata peach (?)
@@ -47,7 +47,7 @@ categories: meta lists
 38. T. capitata (?) purple tips
 39. T. ionatha (large)
 40. (unidentified) red, finer leaves than abdita
-41. T. houston cotton candy (?)
+41. T. houston 'cotton candy' (?)
 42. T. andreana small, with pup (this is a favorite)
 43. T. circinnatiodes (large)
 44. T. tectorum
@@ -65,6 +65,13 @@ categories: meta lists
 56. T. ionatha 'fountain'
 57. T. streptophylla (bigger!)
 58. T. 'Eric Knobloch'
+59. T. harrisii
+60. T. brachycaulos 'multiflora'
+61. T. capitata 'peach'
+62. T. ionatha (curls to one side)
+63. T. 'Victoria'
+64. T. 'Victoria'
+65. T. 'Victoria'
 
 ## My current want list
 
@@ -75,8 +82,9 @@ categories: meta lists
 * T. duratii
 * T. 'Betty'
 * T. exserta
-* T. 'Victoria'
+* ~~T. 'Victoria'~~ achievement unlocked!
+* T. ionatha Vanhyningii
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
-Last update: 2/25/20
+Last update: 3/8/20
