@@ -44,7 +44,7 @@ categories: meta lists
 35. T. houston black
 36. T. espinosae
 37. T. caput-medusae (large)
-38. T. capitata (?) purple tips
+38. T. harrisii (?) purple tips
 39. T. ionatha (large)
 40. (unidentified) red, finer leaves than abdita
 41. T. houston 'cotton candy' (?)
@@ -72,6 +72,7 @@ categories: meta lists
 63. T. 'Victoria'
 64. T. 'Victoria'
 65. T. 'Victoria'
+66. T. aeranthos
 
 ## My current want list
 
@@ -87,4 +88,4 @@ categories: meta lists
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
-Last update: 3/8/20
+Last update: 3/9/20
