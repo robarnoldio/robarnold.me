@@ -9,7 +9,7 @@ categories: meta lists
 
 1. T. ionatha (2015) the one that started it all...
 2. T. capitata (large)
-3. T. ionatha fountain-looking
+3. T. ionatha (fountain form)
 4. T. abdita red
 5. T. melanocrater
 6. T. juncea (large)
@@ -32,24 +32,24 @@ categories: meta lists
 23. T. ionatha
 24. T. ionatha
 25. T. ionatha (small, maybe peanut cultivar)
-26. T. juncea (small, with pup)
+26. ~~T. juncea (small, with pup)~~ died 3/2020
 27. T. fuchsii v. gracilis
 28. T. kolbii
 29. T. kolbii
 30. T. funckiana
-31. T. aeranthos (?) small clump
+31. T. aeranthos small clump
 32. T. velutina
 33. T. velutina
 34. ~~T. magnusiana~~ died 2/2020 of rot :(
 35. T. houston black
 36. T. espinosae
 37. T. caput-medusae (large)
-38. T. harrisii (?) purple tips
+38. T. harrisii purple tips
 39. T. ionatha (large)
-40. (unidentified) red, finer leaves than abdita
+40. T. brachycaulos spiral
 41. T. houston 'cotton candy' (?)
 42. T. andreana small, with pup (this is a favorite)
-43. T. circinnatiodes (large)
+43. T. circinnata/paucifolia (large)
 44. T. tectorum
 45. T. ionatha 'druid'
 46. T. ionatha
@@ -68,11 +68,13 @@ categories: meta lists
 59. T. harrisii
 60. T. brachycaulos 'multiflora'
 61. T. capitata 'peach'
-62. T. ionatha (curls to one side)
+62. T. kolbii
 63. T. 'Victoria'
 64. T. 'Victoria'
 65. T. 'Victoria'
 66. T. aeranthos
+67. T. caput medusae
+68. T. capitata
 
 ## My current want list
 
@@ -88,4 +90,4 @@ categories: meta lists
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
-Last update: 3/9/20
+Last update: 3/24/20
