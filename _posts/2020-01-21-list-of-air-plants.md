@@ -7,15 +7,15 @@ categories: meta lists
 
 ## Air plants currently in my collection
 
-1. T. ionatha (2015) the one that started it all...
+1. T. ionantha (2015) the one that started it all...
 2. T. capitata (large)
-3. T. ionatha (fountain form)
+3. T. ionantha (fountain form)
 4. T. abdita red
 5. T. melanocrater
 6. T. juncea (large)
 7. T. abdita red
 8. T. butzii
-9. T. ionatha
+9. T. ionantha
 10. T. secunda (xlarge)
 11. T. juncea (large)
 12. T. capitata v. dominguensis purple
@@ -28,10 +28,10 @@ categories: meta lists
 19. T. butzii
 20. T. caput-medusae
 21. T. caput-medusae
-22. T. ionatha
-23. T. ionatha
-24. T. ionatha
-25. T. ionatha (small, maybe peanut cultivar)
+22. T. ionantha
+23. T. ionantha
+24. T. ionantha
+25. T. ionantha (small, maybe peanut cultivar)
 26. ~~T. juncea (small, with pup)~~ died 3/2020
 27. T. fuchsii v. gracilis
 28. T. kolbii
@@ -45,24 +45,24 @@ categories: meta lists
 36. T. espinosae
 37. T. caput-medusae (large)
 38. T. harrisii purple tips
-39. T. ionatha (large)
+39. T. ionantha (large)
 40. T. brachycaulos spiral
 41. T. houston 'cotton candy' (?)
 42. T. andreana small, with pup (this is a favorite)
 43. T. circinnata/paucifolia (large)
 44. T. tectorum
-45. T. ionatha 'druid'
-46. T. ionatha
+45. T. ionantha 'druid'
+46. T. ionantha
 47. T. fasciculata hybrid
 48. T. balbisiana
 49. T. balbisiana (?)
 50. T. xerographica
 51. T. streptophylla (big!)
-52. T. ionatha clump (on a wire hanger)
+52. T. ionantha clump (on a wire hanger)
 53. T. magnusiana (with pup)
-54. T. ionatha (tall form, maybe 'Big Boy')
-55. T. ionatha
-56. T. ionatha 'fountain'
+54. T. ionantha (tall form, maybe 'Big Boy')
+55. T. ionantha
+56. T. ionantha 'fountain'
 57. T. streptophylla (bigger!)
 58. T. 'Eric Knobloch'
 59. T. harrisii
@@ -86,8 +86,8 @@ categories: meta lists
 * T. 'Betty'
 * T. exserta
 * ~~T. 'Victoria'~~ achievement unlocked!
-* T. ionatha Vanhyningii
+* T. ionantha Vanhyningii
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
-Last update: 3/24/20
+Last update: 4/7/20
