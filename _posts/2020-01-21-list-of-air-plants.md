@@ -44,7 +44,7 @@ categories: meta lists
 35. T. houston black
 36. T. espinosae
 37. T. caput-medusae (large)
-38. T. harrisii purple tips
+38. ~~T. harrisii purple tips~~ died 4/2020
 39. T. ionantha (large)
 40. T. brachycaulos spiral
 41. T. houston 'cotton candy' (?)
@@ -69,12 +69,20 @@ categories: meta lists
 60. T. brachycaulos 'multiflora'
 61. T. capitata 'peach'
 62. T. kolbii
-63. T. 'Victoria'
-64. T. 'Victoria'
-65. T. 'Victoria'
+63. T. no id
+64. T. no id
+65. T. no id (all three are the same hybrid, I think streptophylla)
 66. T. aeranthos
 67. T. caput medusae
 68. T. capitata
+69. T. capitata
+70. T. 'Victoria'
+71. T. riohondoensis
+72. T. riohondoensis
+73. T. dura (large form) clump
+74. T. crocata (Brazil, orange flower)
+75. T. 'Curly Slim'
+76. T. 'Curly Slim' XL (slimzilla)
 
 ## My current want list
 
@@ -83,11 +91,10 @@ categories: meta lists
 * T. 'showtime'
 * T. crocata giant
 * T. duratii
-* T. 'Betty'
 * T. exserta
 * ~~T. 'Victoria'~~ achievement unlocked!
 * T. ionantha Vanhyningii
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
-Last update: 4/7/20
+Last update: 4/17/20
