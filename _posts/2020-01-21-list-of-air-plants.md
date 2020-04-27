@@ -87,7 +87,7 @@ categories: meta lists
 78. T. andreana
 79. T. andreana
 80. T. xerographica (small)
-81. T. streptophyllum
+81. T. streptophylla
 82. T. oaxacana
 83. T. tectorum (Ecuador) large
 
