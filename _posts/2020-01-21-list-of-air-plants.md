@@ -83,11 +83,18 @@ categories: meta lists
 74. T. crocata (Brazil, orange flower)
 75. T. 'Curly Slim'
 76. T. 'Curly Slim' XL (slimzilla)
+77. T. tectorum (Ecuador) clump
+78. T. andreana
+79. T. andreana
+80. T. xerographica (small)
+81. T. streptophyllum
+82. T. oaxacana
+83. T. tectorum (Ecuador) large
 
 ## My current want list
 
 * ~~T. streptophyllum~~ achievement unlocked!
-* T. tectorum clump
+* ~~T. tectorum clump~~ achievement unlocked!
 * T. 'showtime'
 * T. crocata giant
 * T. duratii
@@ -97,4 +104,4 @@ categories: meta lists
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
-Last update: 4/17/20
+Last update: 4/26/20
