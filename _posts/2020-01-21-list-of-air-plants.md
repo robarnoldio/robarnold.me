@@ -87,21 +87,21 @@ categories: meta lists
 78. T. andreana
 79. T. andreana
 80. T. xerographica (small)
-81. T. streptophylla
+81. T. streptophylla (unknown hybrid)
 82. T. oaxacana
 83. T. tectorum (Ecuador) large
+84. T. seleriana XL
 
 ## My current want list
 
-* ~~T. streptophyllum~~ achievement unlocked!
+* ~~T. streptophylla~~ achievement unlocked!
 * ~~T. tectorum clump~~ achievement unlocked!
-* T. 'showtime'
+* ~~T. 'Victoria'~~ achievement unlocked!
 * T. crocata giant
 * T. duratii
 * T. exserta
-* ~~T. 'Victoria'~~ achievement unlocked!
 * T. ionantha Vanhyningii
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
-Last update: 4/26/20
+Last update: 5/6/20
