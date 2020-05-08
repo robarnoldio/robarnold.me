@@ -91,6 +91,9 @@ categories: meta lists
 82. T. oaxacana
 83. T. tectorum (Ecuador) large
 84. T. seleriana XL
+85. T. magnusiana (Large)
+86. T. velutina (small)
+87. T. ionantha 'peach'
 
 ## My current want list
 
@@ -104,4 +107,4 @@ categories: meta lists
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
-Last update: 5/6/20
+Last update: 5/8/20
