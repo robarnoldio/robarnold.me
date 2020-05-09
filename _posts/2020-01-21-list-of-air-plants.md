@@ -94,6 +94,10 @@ categories: meta lists
 85. T. magnusiana (Large)
 86. T. velutina (small)
 87. T. ionantha 'peach'
+88. T. xerographica
+89. T. circinnata
+90. T. ionatha (maybe a druid)
+91. T. abdita
 
 ## My current want list
 
@@ -108,4 +112,4 @@ categories: meta lists
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
-Last update: 5/8/20
+Last update: 5/9/20
