@@ -55,7 +55,7 @@ categories: meta lists
 46. T. ionantha
 47. T. fasciculata hybrid
 48. T. balbisiana
-49. T. balbisiana (?)
+49. ~~T. balbisiana (?)~~ died 4/2020
 50. T. xerographica
 51. T. streptophylla (big!)
 52. T. ionantha clump (on a wire hanger)
