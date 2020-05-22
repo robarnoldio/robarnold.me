@@ -18,7 +18,7 @@ categories: meta lists
 9. T. ionantha
 10. T. secunda (xlarge)
 11. T. juncea (large)
-12. T. capitata v. dominguensis purple
+12. T. capitata var. dominguensis purple
 13. T. plagiotropica
 14. T. stricta (15" wide, I love this one)
 15. T. stricta
@@ -41,13 +41,13 @@ categories: meta lists
 32. T. velutina
 33. T. velutina
 34. ~~T. magnusiana~~ died 2/2020 of rot :(
-35. T. houston black
+35. ~~T. houston black~~
 36. T. espinosae
 37. T. caput-medusae (large)
 38. ~~T. harrisii purple tips~~ died 4/2020
 39. T. ionantha (large)
 40. T. brachycaulos spiral
-41. T. houston 'cotton candy' (?)
+41. ~~T. houston 'cotton candy' (?)~~
 42. T. andreana small, with pup (this is a favorite)
 43. T. circinnata/paucifolia (large)
 44. T. tectorum
