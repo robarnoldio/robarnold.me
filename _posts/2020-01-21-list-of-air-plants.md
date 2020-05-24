@@ -98,6 +98,7 @@ categories: meta lists
 89. T. circinnata
 90. T. ionatha (maybe a druid)
 91. T. abdita
+92. T. streptophylla (large)
 
 ## My current want list
 
@@ -112,4 +113,4 @@ categories: meta lists
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
-Last update: 5/9/20
+Last update: 5/24/20
