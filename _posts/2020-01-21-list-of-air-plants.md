@@ -110,6 +110,7 @@ categories: meta lists
 * T. exserta
 * T. intermedia
 * T. ionantha Vanhyningii
+* T. x Nidus
 
 Coming soon: photos of all these. I will make a page for each one, and probably a collection of the pages. Still studying how that works in Jekyll.
 
