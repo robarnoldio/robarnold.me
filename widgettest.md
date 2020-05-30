@@ -1,7 +1,6 @@
 ---
 layout: page
 title: testing widget collection yo
-permalink: /widgets/
 ---
 
 Opinions expressed on this site are not those of my employer, or probably of
