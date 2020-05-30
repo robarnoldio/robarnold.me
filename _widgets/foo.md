@@ -1,6 +1,6 @@
 ---
 name: coffee pot
-price: $6
+price: 6
 ---
 # a coffee pot
 
