@@ -1,12 +1,14 @@
 ---
 layout: page
-title: testing widget collection yo
+title: widget collection
 ---
 
 Opinions expressed on this site are not those of my employer, or probably of
-anyone's employer. 
+anyone's employer.
 
 {% for widget in site.widgets %}
-  <h2>{{ widget.name }} purchased for teh paltry sum of {{ widget.price }}</h2>
-  <p>{{ widget.content | markdownify }}</p>
+
+## {{ widget.name }} purchased for teh paltry sum of {{ widget.price }}
+  
+  {{ widget.content | markdownify }}
 {% endfor %}
