@@ -30,3 +30,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+  ## 5/30/20 attempting to add a collection
+  collections:
+    - widgets
+      output: true
