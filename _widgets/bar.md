@@ -1,6 +1,7 @@
 ---
 name: rad coffee pot
 price: 60
+layout: page
 ---
 # a RAD coffee pot
 

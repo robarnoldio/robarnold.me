@@ -1,6 +1,7 @@
 ---
 name: coffee pot
 price: 6
+layout: page
 ---
 # a coffee pot
 

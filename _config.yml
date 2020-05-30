@@ -35,4 +35,4 @@ exclude:
 collections:
   widgets:
     output: true
-    sort-by: price
+    sort_by: price

@@ -4,8 +4,7 @@ title: widget collection
 permalink: /widgets/
 ---
 
-Opinions expressed on this site are not those of my employer, or probably of
-anyone's employer.
+Here's a list of some thins in some order, I guess...
 
 {% for widget in site.widgets %}
 
