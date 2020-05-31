@@ -1,8 +1,12 @@
 ---
-name: rad coffee pot
-price: 60
+name: Eric Knobloch
+price: 14
+date: 
+number: 58
 layout: page
+hybrid: true
 ---
-# a RAD coffee pot
+# T. Eric Knobloch (streptophylla x brachycaulos)
 
-This is a rad coffee pot. There are many like it but this one is mine.
+!["T. Eric Knobloch"](/t/IMG_6295.jpeg "Eric Knobloch")
+This is an Eric Knobloch. There are many like it but this one is mine.
