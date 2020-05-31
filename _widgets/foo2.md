@@ -1,5 +1,6 @@
 ---
 name: Curly Slim
+title: XL Tillandsia 'Curly Slim'
 price: 30
 number: 76
 layout: page
