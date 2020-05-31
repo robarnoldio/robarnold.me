@@ -10,7 +10,7 @@ Figuring out how to actually use Jekyll's collection feature.
 
 {% for widget in site.widgets %}
 
-## #{{ widget.number}} [{{ widget.name }}]({{ widget.url }}) purchased for ${{ widget.price }}
+## #{{ widget.number }} [{{ widget.name }}]({{ widget.url }}) purchased for ${{ widget.price }}
   
   {{ widget.content | markdownify | truncate: 40 }}
 {% endfor %}
