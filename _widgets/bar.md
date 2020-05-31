@@ -4,9 +4,8 @@ price: 14
 number: 58
 layout: page
 hybrid: true
-excerpt: "click me to see some fake madness"
 ---
-# T. Eric Knobloch (streptophylla x brachycaulos)
+# T. Eric Knobloch (brachycaulos x streptophylla)
 
 !["T. Eric Knobloch"](/t/IMG_6295.jpeg "Eric Knobloch")
-This is an Eric Knobloch. There are many like it but this one is mine.
+This is an Eric Knobloch. Tillandsia Eric Knobloch grows to some 20cm and the leaves turn a frosty rose when the blooming cycle begins. Unfortunately, Tillandsia Eric Knobloch is available only periodically.
