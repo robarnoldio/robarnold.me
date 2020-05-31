@@ -12,5 +12,5 @@ Figuring out how to actually use Jekyll's collection feature.
 
 ## #{{ widget.number }} [{{ widget.name }}]({{ widget.url }}) purchased for ${{ widget.price }}
   {% raw %}{{ widget.excerpt }}{% endraw %}
-###  {{ widget.content | markdownify }}
+
 {% endfor %}
