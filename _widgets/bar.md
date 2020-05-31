@@ -4,6 +4,7 @@ price: 14
 number: 58
 layout: page
 hybrid: true
+excerpt: "click me to see some fake madness"
 ---
 # T. Eric Knobloch (streptophylla x brachycaulos)
 
