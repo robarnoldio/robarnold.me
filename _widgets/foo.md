@@ -1,7 +1,6 @@
 ---
 name: Curly Slim
 price: 30
-date: 
 number: 76
 layout: page
 ---

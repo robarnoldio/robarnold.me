@@ -1,7 +1,6 @@
 ---
 name: Eric Knobloch
 price: 14
-date: 
 number: 58
 layout: page
 hybrid: true

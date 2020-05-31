@@ -8,7 +8,7 @@ Here's a list of some thins in some order, I guess...
 
 {% for widget in site.widgets %}
 
-## [{{ widget.name }}]({{widget.url}}) purchased for teh paltry sum of ${{ widget.price }}
+## #{{ widget.number}} [{{ widget.name }}]({{ widget.url }}) purchased for ${{ widget.price }}
   
   {{ widget.content | markdownify }}
 {% endfor %}
