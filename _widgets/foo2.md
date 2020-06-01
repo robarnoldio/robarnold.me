@@ -1,9 +1,9 @@
 ---
+number: 76
 name: Curly Slim
 title: XL Tillandsia 'Curly Slim'
 price: 30
-number: 76
-layout: page
+categories: bloom hybrid
 ---
 !["T. curly slim"](/t/IMG_6292.jpeg "Curly Slim")
 This is a curly slim.
