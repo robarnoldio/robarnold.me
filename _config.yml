@@ -24,7 +24,7 @@ github_username:  robarnoldio
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: modernist
 gems:
   - jekyll-feed
 exclude:
@@ -36,7 +36,7 @@ collections:
   widgets:
     output: true
     sort_by: number
-    layout: plantpage
+#    layout: plantpage  ## this works, but I have an issue with the layout
 ## 5/31/20 collections are working, so adding the ones I want for my info architecture
 ## apparently sort_by won't work
   coffee:       ## indexed by coffee.md, permalink /coffee/
