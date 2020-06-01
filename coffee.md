@@ -10,6 +10,6 @@ Figuring out how to actually use Jekyll's collection feature.
 
 {% for coffee in site.coffee %}
 
-{{ coffee.number }}: [{{ coffee.name }}]({{ coffee.url }}) purchased {{ %unless coffee.used }}new {{ %endif }} for ${{ coffee.price }}
+{{ coffee.number }}: [{{ coffee.name }}]({{ coffee.url }}) purchased {{ %unless coffee.used }}new {{ %endunless }} for ${{ coffee.price }}
   
 {% endfor %}
