@@ -7,7 +7,7 @@ permalink: /airplants/
 
 {% for airplant in site.airplants %}
 
-{{ airplant.number }} [{{ airplant.name }}]({{ airplant.url }}) purchased ${{ airplant.date | date: "%b %Y" }}
+{{ airplant.number }} [{{ airplant.name }}]({{ airplant.url }}) purchased {{ airplant.date | date: "%b %Y" }}
 
 {% endfor %}
 
