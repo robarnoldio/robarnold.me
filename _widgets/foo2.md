@@ -4,7 +4,6 @@ title: XL Tillandsia 'Curly Slim'
 price: 30
 number: 76
 layout: page
-excerpt: "click me to see some real madness"
 ---
 T. Curly Slim (streptophylla x intermedia)
 

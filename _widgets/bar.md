@@ -1,11 +1,9 @@
 ---
+number: 58
 name: Eric Knobloch
 title: Tillansdia 'Eric Knobloch'
 price: 14
-number: 58
-layout: page
-categories:
-    - hybrid
+categories: hybrid
 ---
 T. Eric Knobloch (brachycaulos x streptophylla)
 
