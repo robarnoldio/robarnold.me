@@ -37,6 +37,7 @@ collections:
     output: true
     sort_by: number
 ## 5/31/20 collections are working, so adding the ones I want for my info architecture
+## apparently sort_by won't work
   coffee:       ## indexed by coffee.md, permalink /coffee/
     output: true 
     sort_by: number
