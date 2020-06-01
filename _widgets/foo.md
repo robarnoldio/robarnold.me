@@ -6,4 +6,4 @@ price: 30
 categories: bloom hybrid
 ---
 !["T. curly slim"](/t/IMG_6292.jpeg "Curly Slim")
-This is a curly slim. There are many like it but this one is mine.
+This is a curly slim. There are 360 like it but this one is mine.
