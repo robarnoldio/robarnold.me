@@ -5,16 +5,13 @@ permalink: /airplants/
 ---
 ## Air plants currently in my collection
 
-{% assign count = 0 %}
-{% assign deadcount = 0 %}
-{% assign livecount = 0 %}
-
 {% for airplant in site.airplants %}
 
 {% if airplant.categories contains "dead" %}~~{% endif %}{{ airplant.number }} - [{{ airplant.name }}]({{ airplant.url }}) purchased {{ airplant.date | date: "%b %Y" }} from {{ airplant.seller }}{% if airplant.categories contains "dead" %}~~{% endif %}
 
-{{ count = count + 1 }}
-{% if airplant.categories contains "dead" %}{{ deadcount = deadcount + 1 }}{{% else livecount = livecount + 1 %}}{% endif %}{{ airplant.number }}
+{% increment count %}
+{% if airplant.categories contains "dead" %}{% increment deadcount %}{% else %}{% increment livecount %}{% endif %}
+
 {% endfor %}
 
 ## My current want list
