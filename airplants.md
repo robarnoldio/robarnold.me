@@ -5,13 +5,14 @@ permalink: /airplants/
 ---
 ## Air plants currently in my collection
 
+{% assign totalspend = 0 %}
 {% for airplant in site.airplants %}
 
 {% if airplant.categories contains "dead" %}~~{% endif %}{{ airplant.number }} - [{{ airplant.name }}]({{ airplant.url }}) purchased {{ airplant.date | date: "%b %Y" }} from {{ airplant.seller }}{% if airplant.categories contains "dead" %}~~{% endif %}
 
-{% increment count %}
-{% increment kount %}
-{% if airplant.categories contains "dead" %}{% increment deadcount %}{% else %}{% increment livecount %}{% endif %}
+{% increment c %}
+{% if airplant.categories contains "dead" %}{% increment d %}{% else %}{% increment l %}{% endif %}
+{% totalspend = totalspend = airplant.price %}
 
 {% endfor %}
 
@@ -26,9 +27,11 @@ permalink: /airplants/
 
 ## Some crude stats
 
-total: {{ count }}
-living: {{ livecount }}
-dead: {{ deadcount }}
+total: {{ c }}
+living: {{ l }}
+dead: {{ d }}
+total: ${{ totalspend }}
+average price: ${{ totalspend | divide_by c }}
 
 Last update: {{ "now" | date: "%b %d, %y" }}
 
