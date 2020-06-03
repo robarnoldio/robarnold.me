@@ -12,7 +12,7 @@ permalink: /airplants/
 
 {% increment c %}
 {% if airplant.categories contains "dead" %}{% increment d %}{% else %}{% increment l %}{% endif %}
-{% totalspend = totalspend = airplant.price %}
+{% assign totalspend = totalspend | plus: airplant.price %}
 
 {% endfor %}
 
@@ -31,7 +31,7 @@ total: {{ c }}
 living: {{ l }}
 dead: {{ d }}
 total: ${{ totalspend }}
-average price: ${{ totalspend | divide_by c }}
+average price: ${{ totalspend | divided_by: c }}
 
 Last update: {{ "now" | date: "%b %d, %y" }}
 
