@@ -8,7 +8,7 @@ permalink: /airplants/
 {% assign totalspend = 0 %}
 {% for airplant in site.airplants %}
 
-{% if airplant.categories contains "dead" %}~~{% endif %}{{ airplant.number }} * *[{{ airplant.name }}]({{ airplant.url }}) purchased {{ airplant.date | date: "%b %Y" }} from {{ airplant.seller }}{% if airplant.categories contains "dead" %}~~{% endif %}
+{% if airplant.categories contains "dead" %}~~{% endif %}{{ airplant.number }} - [{{ airplant.name }}]({{ airplant.url }}) purchased {{ airplant.date | date: "%b %Y" }} from {{ airplant.seller }}{% if airplant.categories contains "dead" %}~~{% endif %}
 
 <!-------------------------------------
 {% increment c %}
@@ -17,7 +17,6 @@ permalink: /airplants/
 {% if airplant.categories contains "noid" %}{% increment n %}{% endif %}
 {% if airplant.categories contains "bloom" %}{% increment b %}{% endif %}
 {% if airplant.categories contains "hybrid" %}{% increment h %}{% endif %}
-
 --------------------------------------->
 {% endfor %}
 
