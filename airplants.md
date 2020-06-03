@@ -38,7 +38,7 @@ permalink: /airplants/
 * unidentified: {{ n }}
 * bloomed: {{ b }}
 * hybrid: {{ h }}
-* total: ${{ totalspend | round: 2 }}
+* total: ${{ totalspend | round: }}
 * average price: ${{ totalspend | divided_by: c | round: 2 }}
 
 Last update: {{ "now" | date: "%b %d, %y" }}
