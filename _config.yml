@@ -31,7 +31,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-## apparently sort_by won't work
+collections:
   coffee:       ## indexed by coffee.md, permalink /coffee/
     output: true 
     sort_by: number
