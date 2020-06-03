@@ -7,7 +7,7 @@ permalink: /airplants/
 
 {% for airplant in site.airplants %}
 
-{% if airplant.categories contains "dead" %}~~{% endif %}{{ airplant.number }} - [{{ airplant.name }}]({{ airplant.url }}) purchased {{ airplant.date | date: "%b %Y" }}{% if airplant.categories contains "dead" %}~~{% endif %}
+{% if airplant.categories contains "dead" %}~~{% endif %}{{ airplant.number }} - [{{ airplant.name }}]({{ airplant.url }}) purchased {{ airplant.date | date: "%b %Y" }} from {{ airplant.seller }}{% if airplant.categories contains "dead" %}~~{% endif %}
 
 {% endfor %}
 
@@ -21,4 +21,5 @@ permalink: /airplants/
 * T. x Nidus
 
 Last update: {{ "now" | date: "%b %d, %y" }}
+
 Some debug stuff that I will subsequently delete: built {{ "now" | date: "%Y-%m-%d %H:%M" }}
