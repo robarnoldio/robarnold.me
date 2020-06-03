@@ -35,7 +35,7 @@ permalink: /airplants/
 * total: {{ c }}
 * living: {{ l }}
 * dead: {{ d }}
-* survival rate: {{ l | divided_by: c }}%
+* survival rate: {{ l }}
 * pupping: {{ p }}
 * unidentified: {{ n }}
 * bloomed: {{ b }}
