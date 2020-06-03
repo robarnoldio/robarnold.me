@@ -17,6 +17,7 @@ permalink: /airplants/
 {% if airplant.categories contains "noid" %}{% increment n %}{% endif %}
 {% if airplant.categories contains "bloom" %}{% increment b %}{% endif %}
 {% if airplant.categories contains "hybrid" %}{% increment h %}{% endif %}
+{% if airplant.categories contains "pup" %}{% increment p %}{% endif %}
 --------------------------------------->
 {% endfor %}
 
@@ -34,6 +35,8 @@ permalink: /airplants/
 * total: {{ c }}
 * living: {{ l }}
 * dead: {{ d }}
+* survival rate: {{ l | divided_by: c | times: 100 | round: 2 }}
+* pupping: {{ p }}
 * unidentified: {{ n }}
 * bloomed: {{ b }}
 * hybrid: {{ h }}
