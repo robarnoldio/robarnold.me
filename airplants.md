@@ -10,6 +10,7 @@ permalink: /airplants/
 {% if airplant.categories contains "dead" %}~~{% endif %}{{ airplant.number }} - [{{ airplant.name }}]({{ airplant.url }}) purchased {{ airplant.date | date: "%b %Y" }} from {{ airplant.seller }}{% if airplant.categories contains "dead" %}~~{% endif %}
 
 {% increment count %}
+{% increment kount %}
 {% if airplant.categories contains "dead" %}{% increment deadcount %}{% else %}{% increment livecount %}{% endif %}
 
 {% endfor %}
