@@ -10,10 +10,11 @@ permalink: /airplants/
 
 {% if airplant.categories contains "dead" %}~~{% endif %}{{ airplant.number }} - [{{ airplant.name }}]({{ airplant.url }}) purchased {{ airplant.date | date: "%b %Y" }} from {{ airplant.seller }}{% if airplant.categories contains "dead" %}~~{% endif %}
 
+<!-------------------------------------
 {% increment c %}
 {% if airplant.categories contains "dead" %}{% increment d %}{% else %}{% increment l %}{% endif %}
 {% assign totalspend = totalspend | plus: airplant.price %}
-
+--------------------------------------->
 {% endfor %}
 
 ## My current want list
