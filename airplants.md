@@ -32,10 +32,9 @@ permalink: /airplants/
 
 ## Some crude stats
 
-* total: {{ c }} {% assign cc = c %}
-* living: {{ l }} {% assign ll = l %}
+* total: {{ c }}
+* living: {{ l }}
 * dead: {{ d }}
-* survival rate: {{ ll | divided_by: cc | times: 100.0 | round: 2 }}
 * pupping: {{ p }}
 * unidentified: {{ n }}
 * bloomed: {{ b }}
