@@ -42,4 +42,4 @@ permalink: /airplants/
 * total: ${{ totalspend | round: }}
 * average price: ${{ totalspend | divided_by: c | round: 2 }}
 
-Last update: {{ "now" | date: "%b %d, %y" }}
+Last update: {{ "now" | date: "%b %d, %Y" }}
