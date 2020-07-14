@@ -24,7 +24,7 @@ permalink: /airplants/
 ## My current want list
 
 * T. crocata giant
-* T. duratii
+* ~~T. duratii~~ obtained July 2020
 * T. exserta
 * T. intermedia
 * T. ionantha Vanhyningii
