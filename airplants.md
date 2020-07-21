@@ -27,7 +27,7 @@ permalink: /airplants/
 * ~~T. duratii~~ obtained July 2020
 * T. exserta
 * T. intermedia
-* T. ionantha Vanhyningii
+* ~~T. ionantha Vanhyningii~~ obtained July 2020
 * T. x Nidus
 
 ## Some crude stats
