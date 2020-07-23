@@ -23,12 +23,13 @@ permalink: /airplants/
 
 ## My current want list
 
-* T. crocata giant
 * ~~T. duratii~~ obtained July 2020
+* ~~T. ionantha Vanhyningii~~ obtained July 2020
+* T. crocata giant
 * T. exserta
 * T. intermedia
-* ~~T. ionantha Vanhyningii~~ obtained July 2020
 * T. x Nidus
+* T. x Betty
 
 ## Some crude stats
 
