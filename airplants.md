@@ -30,6 +30,8 @@ permalink: /airplants/
 * T. intermedia
 * T. x Nidus
 * T. x Betty
+* T. x Elisa
+* T. x El Guapo
 
 ## Some crude stats
 
