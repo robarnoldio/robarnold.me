@@ -25,9 +25,9 @@ permalink: /airplants/
 
 * ~~T. duratii~~ obtained July 2020
 * ~~T. ionantha Vanhyningii~~ obtained July 2020
-* T. crocata giant
-* T. exserta
-* T. intermedia
+* ~~T. crocata giant~~ obtained Sept 2020
+* ~~T. exserta~~ obtained Sept 2020
+* ~~T. intermedia~~ obtained Sept 2020
 * T. x Nidus
 * T. x Betty
 * T. x Elisa
