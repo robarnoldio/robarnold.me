@@ -28,8 +28,8 @@ permalink: /airplants/
 * ~~T. crocata giant~~ obtained Sept 2020
 * ~~T. exserta~~ obtained Sept 2020
 * ~~T. intermedia~~ obtained Sept 2020
+* ~~T. x Betty~~ obtained Aug 2020
 * T. x Nidus
-* T. x Betty
 * T. x Elisa
 * T. x El Guapo
 
