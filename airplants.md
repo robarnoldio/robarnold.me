@@ -29,6 +29,7 @@ permalink: /airplants/
 * ~~T. exserta~~ obtained Sept 2020
 * ~~T. intermedia~~ obtained Sept 2020
 * ~~T. x Betty~~ obtained Aug 2020
+* T. rothii
 * T. x Nidus
 * T. x Elisa
 * T. x El Guapo
